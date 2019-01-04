@@ -40,3 +40,6 @@ code {
 .underline {
   text-decoration: underline;
 }
+.separator {
+  padding: 50px; 
+}

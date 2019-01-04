@@ -1,2 +1,2 @@
-# Slate Editor
-A rich text editor built using Slate.js
+# Rich Text Editors
+Two tester rich text editors built using Quill and Slate. 

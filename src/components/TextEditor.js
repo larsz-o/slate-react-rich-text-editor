@@ -6,6 +6,7 @@ import { BoldMark, CodeMark, ItalicMark, FormatToolBar, ListMark, UnderlineMark 
 import Icon from 'react-icons-kit';
 import { bold, italic, code, list, underline } from 'react-icons-kit/feather';
 
+
 const initialValue = Value.fromJSON({
     document: {
         nodes: [{
