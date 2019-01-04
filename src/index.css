@@ -26,6 +26,7 @@ code {
   padding: 40px; 
   margin: 65px auto 45px; 
   border-radius: 4.5px; 
+
 }
 .format-toolbar {
   display: flex; 
@@ -35,4 +36,7 @@ code {
 }
 .tooltip-icon-button { 
   border: 0; 
+}
+.underline {
+  text-decoration: underline;
 }
