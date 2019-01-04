@@ -1,4 +1,4 @@
 import TextEditor from './TextEditor'; 
 import BoldMark from './BoldMark'; 
-
-export { TextEditor, BoldMark }; 
+import ItalicMark from './ItalicMark'; 
+export { TextEditor, BoldMark, ItalicMark }; 

@@ -1,10 +1,9 @@
 import React from 'react'; 
 
-const BoldMark = props => (
-    <strong>
+const ItalicMark = props => (
+    <em property="italic"> 
     {/* put all props.children inside these tags */}
         {props.children}
-    </strong>
-);
-
-export default BoldMark; 
+    </em>
+)
+export default ItalicMark; 
